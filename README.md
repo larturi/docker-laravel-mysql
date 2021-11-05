@@ -1,8 +1,9 @@
 # Laravel & MySQL with Docker
 
 ### Se recomienda usar Laravel Sail para nuevos proyectos.
+##### En caso de querer Dockerizar un Laravel ya existente, incluir los archivos y seguir los pasos.
 
-#### En caso de querer Dockerizar un Laravel ya existente, incluir los archivos y seguir los pasos.
+<hr/>
 
 Una vez ejecutado, se generan tres contenedores:
 
@@ -10,7 +11,7 @@ App: http://localhost:81/login
 PhpMyAdmin: http://localhost:82
 MySQL en puerto 3307
 
-<hr/><br/>
+<hr/>
 
 ## Get Started 🚀
 
